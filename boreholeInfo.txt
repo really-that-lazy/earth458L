@@ -1,0 +1,20 @@
+Hi all,
+
+this is the info that you need for your borehole logs:
+
+The coordinates for the new geoprobe wells (NC108 and NC110) are as follows (location, northing (m), easting (m), elevation (m asl):
+NC108-2.3	4814011.44	536741.83	339.936
+NC108-3.8	4814011.44	536741.83	339.937
+NC110-2.8	4813929.03	536827.61	339.022
+NC110-7.2	4813929.03	536827.61	339.022
+The depth indication is to the bottom of the well (bottom of screen) and is approximate. The measured total depths are:
+
+NC108-2.3	2.29
+NC108-3.8	3.81
+NC110-2.8	2.81
+NC110-7.2	7.18
+NC108-2.3 and NC110-2.8 have 20 cm screens and we'll assume the same for the deep wells. The elevations I provided are to the top of the well pipes. As announced, we'll use NC-110 for the borehole logs. 
+~1.75" is the diameter of the liner (clear PVC tube). I believe the push rods that create the borehole are 2.25" in diameter.
+As for access to EIT 1021: we'll close the doors around 5pm every afternoon. You may stay inside the room for as long as you wish, as you can still exit the room. However, you'll not be able to re-enter the room once the last person has left.
+Best,
+Hans
